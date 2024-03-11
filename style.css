@@ -2,3 +2,7 @@ h1 {
   color: red;
   text-decoration: dotted;
 }
+
+h2 {
+  text-align: end;
+}
